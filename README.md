@@ -1,2 +1,2 @@
 # builder-maven-chrome
-A maven builder image with chrome
+Builder Image for maven and crhome
